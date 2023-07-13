@@ -1,0 +1,1 @@
+# Playground project for azure cognitive search with C#
